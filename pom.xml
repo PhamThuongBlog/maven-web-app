@@ -15,11 +15,6 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <plugin>
-    <groupId>org.codehaus.mojo</groupId>
-    <artifactId>sonar-maven-plugin</artifactId>
-    <version>3.10.0</version>
-</plugin>
   <build>
     <finalName>01-maven-web-app</finalName>
   </build>
