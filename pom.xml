@@ -7,13 +7,6 @@
   <version>3.0-RELEASE</version>
   <name>01-maven-web-app</name>
   <url>http://maven.apache.org</url>
-
-  <distributionManagement>
-    <repository>
-      <id>thuong-snapshot-repository</id>
-      <url>http://localhost:8081/repository/thuong-snapshot-repository/</url>
-    </repository>
-  </distributionManagement>
   
   <dependencies>
     <dependency>
