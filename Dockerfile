@@ -8,7 +8,7 @@ RUN rm -rf /usr/local/tomcat/webapps/ROOT
 
 # 3. Copy file WAR từ workspace vào thư mục webapps của Tomcat
 # Lưu ý: file .war cần có tên ROOT.war để Tomcat chạy mặc định trên /
-COPY maven-web-app.war /usr/local/tomcat/webapps/ROOT.war
+COPY target/maven-web-app.war /usr/local/tomcat/webapps/ROOT.war
 
 # 4. Expose port Tomcat
 EXPOSE 8085
