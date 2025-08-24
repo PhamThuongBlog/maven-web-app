@@ -10,5 +10,7 @@
   
  <p> All the best my dear friend....</p>
 
+<h1><font color='Green'> Final Words: CHÚC CÁC BẠN SV KTPM K21 ABC HỌC TẬP THẬT TỐT! <font></h1>
+
 </body>
 </html>
